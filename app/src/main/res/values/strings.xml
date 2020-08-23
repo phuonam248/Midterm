@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HealthyDiet</string>
+    <dimen name="button_day">48dp</dimen>
+    <dimen name="thumbnail_height">54dp</dimen>
+    <dimen name="thumbnail_width">54dp</dimen>
+</resources>

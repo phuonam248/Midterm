@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="News"
+        android:id="@+id/menuButton1"
+        android:icon="@drawable/ic_news"/>
+    <item android:title="Diet"
+        android:id="@+id/menuButton2"
+        android:icon="@drawable/ic_diet"/>
+</menu>
